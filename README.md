@@ -43,7 +43,7 @@ Enter matrix elements (1 = Danger Zone, 0 = Safe Zone):
 1
 0
 
-Entered Matrix:
+Entered Matrix: 
 1 0 
 1 0 
 
